@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: src/main/java/com/pos/backend/dialect/SQLDialect.java
+  checksum: fc9a48a3ef7f1bedc3e6744cd939595d7fef68bf4069fa706ab395777fb31063
+- filename: src/main/resources/application.properties
+  checksum: d35ccd5e53eeb2df0051b7695ff66c3bdb6f9b1195f0c72b8662ec4fe1226888
+
+version: ""
