@@ -1,0 +1,9 @@
+/Users/mansi.shah1/Documents/ POC - TW/POS Retail/Retail - POS- maven/src/main/java/com/example/demo/controller/ProductDetailController.java
+/Users/mansi.shah1/Documents/ POC - TW/POS Retail/Retail - POS- maven/src/main/java/com/example/demo/repository/ProductDetailsRepository.java
+/Users/mansi.shah1/Documents/ POC - TW/POS Retail/Retail - POS- maven/src/main/java/com/example/demo/Entity/ProductEntity.java
+/Users/mansi.shah1/Documents/ POC - TW/POS Retail/Retail - POS- maven/src/main/java/com/example/demo/dialect/SQLiteDialect.java
+/Users/mansi.shah1/Documents/ POC - TW/POS Retail/Retail - POS- maven/src/main/java/com/example/demo/model/ProductDetailResponseModel.java
+/Users/mansi.shah1/Documents/ POC - TW/POS Retail/Retail - POS- maven/src/main/java/com/example/demo/PosBackend.java
+/Users/mansi.shah1/Documents/ POC - TW/POS Retail/Retail - POS- maven/src/main/java/com/example/demo/configuration/DBConfiguration.java
+/Users/mansi.shah1/Documents/ POC - TW/POS Retail/Retail - POS- maven/src/main/java/com/example/demo/service/ProductDetailServiceImpl.java
+/Users/mansi.shah1/Documents/ POC - TW/POS Retail/Retail - POS- maven/src/main/java/com/example/demo/service/ProductDetailService.java
